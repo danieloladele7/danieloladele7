@@ -1,6 +1,5 @@
-### Welcome to Daniel Oladele's GitHub 👋
-
 <div id="header" align="center">
+  ### Welcome to Daniel Oladele's GitHub 👋
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=danieloladele7">
 </a>
